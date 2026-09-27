@@ -33,7 +33,7 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=DankordE&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Dankord&show_icons=true&theme=tokyonight"/>
 </p>
 
 >"Its only delusional until it works."
