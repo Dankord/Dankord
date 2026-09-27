@@ -2,7 +2,6 @@
 
 👋 Hi, I'm John Kervin Ganzon, a Web Developer for almost 5 years, specializing in fullstack development, UI/UX designing and database management. I studied in Arellano University - Apolinario Mabini Campus as an ICT student in my senior high school years and currently studying in the Polytechnic University of the Philippines as an IT
 
-##Tech Stack
 ### Programming Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -45,4 +44,4 @@
   />
 </div>
 
-## >"Its only delusional until it works."
+> ## "Its only delusional until it works."
