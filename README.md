@@ -32,6 +32,10 @@
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dankord&show_icons=true)
+
+<p align="center">
+<img src="https://github-readme-stats-fast.vercel.app/api?username=Dankord&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Dankord&layout=compact&theme=tokyonight" />
+</p>
 
 >"Its only delusional until it works."
