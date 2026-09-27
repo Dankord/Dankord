@@ -33,9 +33,16 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-<img src="https://github-readme-stats-fast.vercel.app/api?username=Dankord&show_icons=true&theme=tokyonight" />
-<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Dankord&layout=compact&theme=tokyonight" />
-</p>
+<div align="center">
+  <img 
+    src="https://github-readme-stats-fast.vercel.app/api?username=Dankord&show_icons=true&theme=tokyonight"
+    width="45%"
+  />
+  &nbsp;&nbsp;&nbsp;
+  <img 
+    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Dankord&layout=compact&theme=tokyonight"
+    width="45%"
+  />
+</div>
 
 >"Its only delusional until it works."
