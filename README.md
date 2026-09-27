@@ -1,6 +1,6 @@
 ## Dankord's Profile
 
-👋 Hi, I'm john Kervin Ganzon, a Web Developer for almost 5 years, specializing in fullstack development, UI/UX designing and database management. I studied in Arellano University - Apolinario Mabini Campus as an ICT student in my senior high school years and currently studying in the Polytechnic University of the Philippines as an IT
+👋 Hi, I'm John Kervin Ganzon, a Web Developer for almost 5 years, specializing in fullstack development, UI/UX designing and database management. I studied in Arellano University - Apolinario Mabini Campus as an ICT student in my senior high school years and currently studying in the Polytechnic University of the Philippines as an IT
 
 ##Tech Stack
 ### Programming Languages
@@ -30,3 +30,10 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
+
+## 📊 GitHub Stats
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+</p>
+
+>"Its only delusional until it works."
