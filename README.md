@@ -1,6 +1,6 @@
 ## Dankord's Profile
 
-👋 Hi, I'm John Kervin Ganzon, a Web Developer for almost 5 years, specializing in fullstack development, UI/UX designing and database management. I studied in Arellano University - Apolinario Mabini Campus as an ICT student in my senior high school years and currently studying in the Polytechnic University of the Philippines as an IT
+👋 Hi, I'm John Kervin Ganzon, a Web Developer for almost 5 years, specializing in fullstack development, UI/UX designing and database management.
 
 ## 🛠 Tech Stack
 
