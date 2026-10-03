@@ -47,7 +47,6 @@
 ![Laravel Stack](https://img.shields.io/badge/Laravel_Stack-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 
 ## 📊 GitHub Stats
-
 <div align="center">
   <img 
     src="https://github-readme-stats-fast.vercel.app/api?username=Dankord&show_icons=true&theme=tokyonight"
@@ -57,6 +56,11 @@
   <img 
     src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Dankord&layout=compact&theme=tokyonight"
     width="45%"
+  />
+  <br/><br/>
+  <img 
+    src="https://streak-stats.demolab.com?user=Dankord&theme=tokyonight"
+    width="70%"
   />
 </div>
 
