@@ -2,6 +2,9 @@
 
 👋 Hi, I'm John Kervin Ganzon, a Web Developer for almost 5 years, specializing in fullstack development, UI/UX designing and database management.
 
+## 📫 Contact Me
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/johnkervin.ganzon.1)
+
 ## 🛠 Tech Stack
 
 ### Programming Languages
