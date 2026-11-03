@@ -67,7 +67,7 @@
   />
   <br/><br/>
   <img 
-    src="https://streak-stats.demolab.com?user=Dankord&theme=tokyonight&cache=1"
+    src="https://streak-stats.demolab.com?user=Dankord&theme=tokyonight"
     width="70%"
   />
 </div>
